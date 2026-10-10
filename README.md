@@ -2,6 +2,8 @@
 
 CSE undergraduate at North South University, Dhaka. I work on machine learning and NLP, and I care most about honest evaluation: checking whether a model is as good as its numbers say.
 
+**Portfolio:** [israt24hub.github.io](https://israt24hub.github.io/)
+
 ### Featured work
 
 **[Bank Marketing: one column that fakes the results](https://github.com/Israt24hub/bank-marketing-leakage)** · CSE445 group project, team of 4
@@ -29,4 +31,4 @@ A curtain of verses hanging in a temple doorway that parts under your cursor and
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/israt-zaman-srity-286975370)
+[Portfolio](https://israt24hub.github.io/) · [LinkedIn](https://www.linkedin.com/in/israt-zaman-srity-286975370)
